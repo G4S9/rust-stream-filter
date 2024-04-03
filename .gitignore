@@ -1,0 +1,10 @@
+__pycache__/
+.idea/
+dist/
+target/
+imports/
+vendored/
+.terraform
+cdktf.out
+cdktf.log
+*terraform.*.tfstate*

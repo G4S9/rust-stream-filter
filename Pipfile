@@ -1,0 +1,12 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[requires]
+python_version = "3.12"
+
+[packages]
+cdktf = "~=0.20.6"
+pytest = "*"
+cdktf-cdktf-provider-aws = "~=19.12.0"
